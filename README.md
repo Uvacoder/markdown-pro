@@ -1,5 +1,5 @@
 # Markdown Pro Editor
-
+-
 The Markdown Pro Editor (formerly Advanced Markdown Editor) is a Standard Notes derived editor that offers full support for Markdown editing.
 
 This editor is based on [EasyMDE](https://github.com/Ionaru/easy-markdown-editor), which is a fork of the now unmaintained [SimpleMDE](https://github.com/sparksuite/simplemde-markdown-editor).
